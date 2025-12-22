@@ -2,6 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Ciêntista de dados.
+- 👩‍🎓 Sou Engenheira Química e Especialista em Ciência de Dados pela USP.
 - 🌱 Estou estudando Desenvolvimento de Sistemas pela UTFPR.
 - ⚡ Amo estatística e meu cachorro "LUKE" 😍
 
