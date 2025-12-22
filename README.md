@@ -25,14 +25,17 @@ Bem-vindo ao meu perfil ✨
           
 </div>
 
-### 📚 Bibliotecas mais utilizadas
+### 📚 Ferramentas utilizadas
 
 <div align="center" style="display: inline_block"><br>
 
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-  <img align="center" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+  <img align="center" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />  
+  <img align="center" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+          
+  
           
 </div>
 
