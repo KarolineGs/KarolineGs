@@ -4,25 +4,14 @@ Bem-vindo ao meu perfil ✨
 - 🔭 Atualmente trabalho como **Cientista de Dados**
 - 👩‍🎓 Engenheira Química, especialista em **Ciência de Dados (USP)**
 - 🌱 Estudando **Desenvolvimento de Sistemas pela PUC-MG**
-- ⚡ Amo estatística e meu cachorro **LUKE** 🐶💙
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KarolineGs&show_icons=true&theme=ambient_gradient&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineGs&layout=compact&theme=ambient_gradient&hide_border=true"/>
-</div>
-
----
+- ⚡ Amo analisar dados e meu cachorro **LUKE** 🐶💙
+  
 
 ### 🛠️ Linguagens
 
-<div align = 'center'style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg"/>
-    <img align="center" height="40" width="40" src=""/>
-      <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg"/>
+       
 
           
 </div>
