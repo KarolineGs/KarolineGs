@@ -3,7 +3,7 @@ Bem-vindo ao meu perfil ✨
 
 - 🔭 Atualmente trabalho como **Cientista de Dados**
 - 👩‍🎓 Engenheira Química, especialista em **Ciência de Dados (USP)**
-- 🌱 Estudando **Desenvolvimento de Sistemas pela UTFPR**
+- 🌱 Estudando **Desenvolvimento de Sistemas pela PUC-MG**
 - ⚡ Amo estatística e meu cachorro **LUKE** 🐶💙
 
 ---
@@ -19,15 +19,17 @@ Bem-vindo ao meu perfil ✨
 
 ### 🛠️ Linguagens
 
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<div align = 'center'style="display: inline_block"><br>
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg"/>
+    <img align="center" height="40" width="40" src=""/>
+      <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg"/>
 
           
 </div>
 
 ### 📚 Ferramentas utilizadas
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
